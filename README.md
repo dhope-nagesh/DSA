@@ -11,3 +11,4 @@ This repo contains `golang` implementation of common DSA problems
 - 0/1 Knapsack
 - Unbounded Knapsack
 - Coin change
+- Longest Common Subsequence
