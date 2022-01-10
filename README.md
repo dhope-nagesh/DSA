@@ -13,3 +13,6 @@ This repo contains `golang` implementation of common DSA problems
 - Coin change
 - Longest Common Subsequence
 - Longest Common Substring
+
+### Sorting
+- Quick Sort
